@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hi align="center">HI, there I am moorthy 👋</h1>
+💬 Ask me about <strong>AWS,DevOps,Python </strong>
+🌱 I’m currently learning <strong>some advanced topics AWS,DevOps </strong>
+📫 How to reach me sa href="www.linkedin.com/in/moorthydevops" target=" blank">Moorthy</a>
+
